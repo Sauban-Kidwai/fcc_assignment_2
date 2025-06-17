@@ -5,17 +5,6 @@
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Assignment Overview](#assignment-overview)
-- [How to Use](#how-to-use)
-- [Key Features](#key-features)
-- [Technologies Used](#technologies-used)
-- [References](#references)
-
----
-
 ## Introduction
 
 This assignment explores advanced cryptographic concepts and practical implementations, including symmetric and asymmetric encryption, cryptographic hash functions, and secure key management, reinforcing theoretical knowledge through hands-on programming and protocol analysis.
