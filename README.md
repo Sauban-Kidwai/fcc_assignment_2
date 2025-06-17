@@ -42,27 +42,6 @@ Assignment 2 covers the following core topics[1]:
   Python implementations for encryption/decryption (3DES, RSA, SHA-256), digital signature creation/verification, and secure message handling.
 
 ---
+## Report Overview
 
-3. **Run the Scripts:**  
-- Encrypt/decrypt text files with provided Python scripts.
-- Generate and verify digital signatures.
-- Follow instructions in the `README.md` for each script to test cryptographic operations.
-
----
-
-## Key Features
-
-- **Symmetric and Asymmetric Encryption:**  
-Implements encryption and decryption with block ciphers (3DES, AES) and public-key cryptography (RSA).
-
-- **Hash Functions and Message Digests:**  
-Uses SHA-256 for secure message digests and integrity verification.
-
-- **Digital Signatures:**  
-Tools for signing messages and verifying signatures to ensure authenticity.
-
-- **Key Management:**  
-Demonstrates secure key generation, storage, and destruction practices.
-
-- **Comprehensive Documentation:**  
-Each function and module is documented for clarity and ease of use, following best practices for cryptographic software.
+The report has a few questions in the beginning that was asked to answer and then the last half of the assignment is about the code implemented
